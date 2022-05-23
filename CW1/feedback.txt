@@ -1,0 +1,11 @@
+Task 1:
+ Figure 1 only shows one variable, not both in comparison (-1 mark).
+
+ Figure 2 is not the log-log plot described in the assignment. Instead it shows the optimal fit (regression) of the empirical vs. the theoretical signal (-2 marks).
+
+ The explanation about how / why Zipf's law differs from the empirical data is incomplete (and there is no need to base this on a linear fit). Instead there should be more focus on the formulae and the constant C (-7.5 marks).
+
+Task 4:
+ dirichlet.csv was not very similar to our solution; RBO = 0.18, NDCG = 0.89 (-1 mark).
+
+ Smaller values for epsilon could be more appropriate given the short length of the text snippets (-1 mark).
