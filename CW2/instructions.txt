@@ -1,0 +1,5 @@
+- Put training dataset, validation dataset and the code under the same file
+
+- Task 1-3.ipynb stores all the results for Task 1,2,3
+
+- Task 4.ipynb failed to complete the LSTM-RNN, but has written some parts of the input processing for this NN.

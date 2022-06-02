@@ -1,0 +1,5 @@
+Total mark： 80
+Task 1: well done
+Task 2: well done
+Task 3: -5  no new features, more grid search
+Task 4: -15  Pre processing is good (3/3pts). Implementation of RNN is good but incomplete (4/10pts). Description of how architecture works is good, but some details missing (3/4pts). Justification is ok (5/10pts). No results (0/3pts)
